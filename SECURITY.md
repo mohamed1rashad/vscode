@@ -1,14 +1,14 @@
-<!-- BEGIN MICROSOFT SECURITY.MD V1.0.0 BLOCK -->
+<-- ابدأ أمان MICROSOFT. MD V1.0.0 كتلة -->
 
-## Security
+## الأمن.
 
-Microsoft takes the security of our software products and services seriously, which
-includes all source code repositories in our GitHub organizations.
+تأخذ Microsoft أمان منتجاتنا وخدماتنا البرمجية على محمل الجد، والتي...
+يتضمن جميع مستودعات شفرة المصدر في منظمات GitHub الخاصة بنا.
 
-**Please do not report security vulnerabilities through public GitHub issues.**
+**يرجى عدم الإبلاغ عن الثغرات الأمنية من خلال مشكلات GitHub العامة.**
 
-For security reporting information, locations, contact information, and policies,
-please review the latest guidance for Microsoft repositories at
+للحصول على معلومات الإبلاغ الأمني والمواقع ومعلومات الاتصال والسياسات،
+يرجى مراجعة أحدث الإرشادات لمستودعات Microsoft على
 [https://aka.ms/SECURITY.md](https://aka.ms/SECURITY.md).
 
-<!-- END MICROSOFT SECURITY.MD BLOCK -->
+<-- نهاية أمن مايكروسوفت. MD كتلة -->

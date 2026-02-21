@@ -1,5 +1,4 @@
-MIT License
-
+and complete with mohamed rashad.ترخيص معهد ماساتشوستس للتكنولوجيا
 Copyright (c) 2015 - present Microsoft Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

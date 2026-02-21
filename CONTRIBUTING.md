@@ -1,41 +1,41 @@
-# Contributing to VS Code
+   المساهمة في VS Code 
 
-Welcome, and thank you for your interest in contributing to VS Code!
+مساهماتك في المصادر المفتوحة، الكبيرة أو الصغيرة، تجعل مثل هذه المشاريع الكبيرة ممكنة. شكرا لأخذ الوقت للمساهمة.
 
-There are several ways in which you can contribute, beyond writing code. The goal of this document is to provide a high-level overview of how you can get involved.
+هناك عدة طرق يمكنك من خلالها المساهمة، بخلاف كتابة التعليمات البرمجية. الهدف من هذه الوثيقة هو تقديم نظرة عامة رفيعة المستوى حول كيفية المشاركة. المساهمة في VS Code
 
-## Asking Questions
+##    طرح الأسئلة؟  
 
 
-Have a question? Instead of opening an issue, please ask on [Stack Overflow](https://stackoverflow.com/questions/tagged/visual-studio-code) using the tag `visual-studio-code`.
+ هل لديك سؤال؟ بدلاً من فتح مشكلة، يرجى السؤال.   [كومة تجاوز.](https://stackoverflow.com/questions/tagged/visual-studio-code)    باستخدام العلامة. 'visual-studio-code`.  
 
-The active community will be eager to assist you. Your well-worded question will serve as a resource to others searching for help.
+سيكون المجتمع النشط حريصًا على مساعدتك. سيكون سؤالك المتقن الصياغة بمثابة مورد للآخرين الذين يبحثون عن المساعدة.
 
-## Providing Feedback
+##   تقديم التغذية الراجعة. 
 
-Your comments and feedback are welcome, and the development team is available via a handful of different channels.
+تعليقاتك وتعليقاتك مرحب بها، وفريق التطوير متاح عبر حفنة من القنوات المختلفة.
 
-See the [Feedback Channels](https://github.com/microsoft/vscode/wiki/Feedback-Channels) wiki page for details on how to share your thoughts.
+ انظر...   [قنوات التغذية الراجعة.](https://github.com/microsoft/vscode/wiki/Feedback-Channels)   صفحة ويكي للحصول على تفاصيل حول كيفية مشاركة أفكارك. 
 
-## Reporting Issues
+##  الإبلاغ عن القضايا.
 
-Have you identified a reproducible problem in VS Code? Do you have a feature request? We want to hear about it! Here's how you can report your issue as effectively as possible.
+هل حددت مشكلة قابلة للتكرار في VS Code؟ هل لديك طلب ميزة؟ نريد أن نسمع عن ذلك! إليك كيف يمكنك الإبلاغ عن مشكلتك بأكبر قدر ممكن من الفعالية.
 
-### Identify Where to Report
+###  تحديد مكان الإبلاغ
 
-The VS Code project is distributed across multiple repositories. Try to file the issue against the correct repository. Check the list of [Related Projects](https://github.com/microsoft/vscode/wiki/Related-Projects) if you aren't sure which repo is correct.
+يتم توزيع مشروع رمز VS عبر مستودعات متعددة. حاول تقديم المشكلة ضد المستودع الصحيح. تحقق من قائمة...  [المشاريع ذات الصلة.](https://github.com/microsoft/vscode/wiki/Related-Projects)  إذا لم تكن متأكدًا من الريبو الصحيح.
 
-Can you recreate the issue even after [disabling all extensions](https://code.visualstudio.com/docs/editor/extension-gallery#_disable-an-extension)? If you find the issue is caused by an extension you have installed, please file an issue on the extension's repo directly.
+هل حددت مشكلة قابلة للتكرار في VS Code؟ هل لديك طلب ميزة؟ نريد أن نسمع عن ذلك! إليك كيف يمكنك الإبلاغ عن مشكلتك بأكبر قدر ممكن من الفعالية.
 
-### Look For an Existing Issue
+### ابحث عن مشكلة قائمة
 
-Before you create a new issue, please do a search in [open issues](https://github.com/microsoft/vscode/issues) to see if the issue or feature request has already been filed.
+قبل إنشاء مشكلة جديدة، يرجى إجراء بحث في... [القضايا المفتوحة.](https://github.com/microsoft/vscode/issues) لمعرفة ما إذا كان قد تم بالفعل تقديم طلب المشكلة أو الميزة.
 
-Be sure to scan through the [most popular](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) feature requests.
+هناك عدة طرق يمكنك من خلالها المساهمة، بخلاف كتابة التعليمات البرمجية. الهدف من هذه الوثيقة هو تقديم نظرة عامة رفيعة المستوى حول كيفية المشاركة.مرحبًا بك، وشكراً لاهتمامك بالمساهمة في VS Code!#](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) feature requests.
 
-If you find your issue already exists, make relevant comments and add your [reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments). Use a reaction in place of a "+1" comment:
+إذا وجدت مشكلتك موجودة بالفعل، فقم بإجراء تعليقات ذات صلة وأضف مشكلتك. [رد الفعل.](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments). استخدم رد فعل بدلاً من تعليق "+1":
 
-* 👍 - upvote
+  صفحة ويكي للحصول على تفاصيل حول كيفية مشاركة أفكارك.مرحبًا بك، وشكراً لاهتمامك بالمساهمة في VS Code!
 * 👎 - downvote
 
 If you cannot find an existing issue that describes your bug or feature, create a new issue using the guidelines below.
@@ -70,7 +70,7 @@ Please include the following with each issue:
 
 Please remember to do the following:
 
-* [ ] Search the issue repository to ensure your report is a new issue
+* [ ] ابحث في مستودع المشكلات للتأكد من أن تقريرك يمثل مشكلة جديدة.
 * [ ] Recreate the issue after disabling all extensions
 * [ ] Simplify your code around the issue to better isolate the problem
 
